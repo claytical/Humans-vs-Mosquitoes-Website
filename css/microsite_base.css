@@ -535,7 +535,7 @@ footer {
 /* Circle tab above the footer */
 
 footer .circle {
-    display: inline-block;
+    margin: 0 auto;
     text-align: center;
     position: relative;
     top: -50px;
